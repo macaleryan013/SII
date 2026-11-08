@@ -1,0 +1,23 @@
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\bin\Debug\net10.0-windows\Macale Inventrory System.exe
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\bin\Debug\net10.0-windows\Macale Inventrory System.deps.json
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\bin\Debug\net10.0-windows\Macale Inventrory System.runtimeconfig.json
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\bin\Debug\net10.0-windows\Macale Inventrory System.dll
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\bin\Debug\net10.0-windows\Macale Inventrory System.pdb
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale_Inventrory_System.Dashboard.resources
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale_Inventrory_System.Login.resources
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale_Inventrory_System.Register.resources
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale Inventrory System.csproj.GenerateResource.cache
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale Inventrory System.GeneratedMSBuildEditorConfig.editorconfig
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale Inventrory System.AssemblyInfoInputs.cache
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale Inventrory System.AssemblyInfo.cs
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale Inventrory System.csproj.CoreCompileInputs.cache
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale Inventrory System.dll
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\refint\Macale Inventrory System.dll
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale Inventrory System.pdb
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale Inventrory System.genruntimeconfig.cache
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\ref\Macale Inventrory System.dll
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale I.42A44013.Up2Date
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\bin\Debug\net10.0-windows\macaledb.accdb
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\bin\Debug\net10.0-windows\System.Data.OleDb.dll
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Data.OleDb.dll
+D:\SII ACTIVITY\Macale Inventrory System\Macale Inventrory System\obj\Debug\net10.0-windows\Macale Inventrory System.csproj.AssemblyReference.cache
